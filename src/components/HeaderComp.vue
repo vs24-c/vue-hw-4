@@ -1,6 +1,6 @@
 <template>
   <header>
-    <a href="../../../index.html" class="logo">
+    <a href="vs24-c.github.io/home-work-vue/" class="logo">
       <img :src="logo.img" alt="" />
     </a>
     <nav class="menu">
